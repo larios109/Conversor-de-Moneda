@@ -2,7 +2,7 @@
 
 Proyecto realizado con java, se utilizo JOptiopane (parte de la librería Swing de Java) para el manejo de interfaces gráficas.
 
-### 🪙 Conversor de divisas:
+### 🪙 Conversor de monedas:
        - Convierte de Lempiras argentinos a Dólar
        - Convierte de Lempiras argentinos a Euros
        - Convierte de Lempiras argentinos a Libras Esterlinas
